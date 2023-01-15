@@ -1,0 +1,6 @@
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/greenpickles03/xerov2
+[submodule "service-reistry"]
+	path = service-reistry
+	url = https://github.com/greenpickles03/xerov2
